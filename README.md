@@ -1,6 +1,7 @@
 # Pushline [WIP]
 
 Pushline is a Unity arcade car game where two cars compete in a small floating arena. The objective is to knock the opposing car off the platform.
+Current under development.
 
 ## Features
 
@@ -21,7 +22,6 @@ Pushline is a Unity arcade car game where two cars compete in a small floating a
 | Move Backward | S |
 | Turn Left | A |
 | Turn Right | D |
-| Drift | Left Shift |
 
 ## Future Improvements
 
